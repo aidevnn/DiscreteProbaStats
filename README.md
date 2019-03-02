@@ -17,4 +17,4 @@ DistributionFitTest[data,DiscreteUniformDistribution[{0,10}],{"TestStatisticTabl
 Print["Discrete KolmogorovSmirnov:0.009818182 Test:0.043007 => Accepted alpha=0.05"]
 ```
 
-Mathematica code can be tested online at https://develop.wolframcloud.com
+The Mathematica code above can be tested online at https://develop.wolframcloud.com
