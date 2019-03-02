@@ -1,7 +1,7 @@
 # DiscreteProbaStats
 Samples generations using discrete probability and Kolmogorov-Sirmnov test
 
-Example:
+Example. A Discrete Uniform (from 0 to 10) sample of size 1000 :
 
 `TestSampleUniform(1000, 10); `
 
