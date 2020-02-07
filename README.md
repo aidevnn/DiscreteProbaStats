@@ -1,10 +1,10 @@
 # DiscreteProbaStats
 Samples generations using discrete probability and Kolmogorov-Sirmnov test
 
-Example. A Discrete Poisson sample with parameter lambda=5 of size 200 :
+Example. A Discrete Poisson sample of size 1000 with parameter lambda=5 :
 
 `
-TestSampleUniform(1000, 10);
+TestSamplesPoisson(1000, 5.0);
 `
 
 Will produce
