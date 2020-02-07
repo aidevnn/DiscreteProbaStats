@@ -19,3 +19,6 @@ Print["Discrete KolmogorovSmirnov:0.027025915 Test:0.043007 => Accepted alpha=0.
 ```
 
 The Mathematica code above can be tested online at https://develop.wolframcloud.com
+The computed value of KolmokorovSmirnov test by Mathematica is exactly the same.
+
+![Screenshot](SamplePoisson.jpg)
